@@ -1,4 +1,5 @@
-import 'package:meta/meta.dart';
+// ignore_for_file: constant_identifier_names
+
 import 'dart:convert';
 import 'package:quran/model/ayah.dart';
 

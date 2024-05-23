@@ -1,3 +1,5 @@
+// ignore_for_file: use_full_hex_values_for_flutter_colors, prefer_const_constructors
+
 import 'dart:convert';
 
 import 'package:dio/dio.dart';
